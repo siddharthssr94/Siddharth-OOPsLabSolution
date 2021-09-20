@@ -1,3 +1,3 @@
 # Siddharth-OOPsLabSolution
 
-OOPs Lab Session - 29th August 2021 
+Great Learning - OOPs Lab Session - 29th August 2021 
